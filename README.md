@@ -15,7 +15,7 @@ The home page consist of buttons and 3 major Tabs .
 
 4.custom icons and application name are displayed at the widget zone of the phone. 
 
-
+5.Exit button in the slider menu/drawer exits the home page.
 
 Plugins Enabled
 1.Vibrate
