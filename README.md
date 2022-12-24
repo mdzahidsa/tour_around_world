@@ -1,6 +1,6 @@
 Tour Around World Mobile
 
-
+It is a hybrid application.
  Getting Started
 
 The first screen would be displayed after installing the application is Splash screen "TourAround world".After 5 seconds time interal is the welcome page having picture and button .
@@ -26,4 +26,6 @@ Plugins Enabled
 6.Icons
 7.Calender
 
+Visual studeio code , android emulator ,physical mobile devices were also used for testing .
+The application runs successfully on IOS/Andriod .
 
