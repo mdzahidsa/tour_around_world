@@ -1,4 +1,4 @@
-Tour Around World Mobile will a all purpuse application soon.
+Tour Around World Mobile
 
 
  Getting Started
